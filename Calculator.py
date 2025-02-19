@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def calculator():
     while True:
         # operation choices
@@ -45,6 +45,3 @@ def calculator():
             print("Invalid choice! Please select a valid operation.")
 
 calculator()
-=======
-
->>>>>>> 437b0f1c9dc08e6f6b86b746f456b3c469cbd6b5
